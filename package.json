@@ -1,0 +1,33 @@
+{
+    "private": true,
+    "dependencies": {
+        "@material-ui/core": "^4.11.3",
+        "@material-ui/icons": "^4.11.2",
+        "cors": "^2.8.5",
+        "express": "^4.17.1",
+        "path": "^0.12.7",
+        "react": "^16.2.0",
+        "react-dom": "^16.2.0",
+        "react-router-dom": "^5.2.0",
+        "react-scripts": "^4.0.2",
+        "request": "^2.88.2",
+        "request-promise": "^4.2.2",
+        "socket.io-client": "^2.1.1"
+    },
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build"
+    },
+    "browserslist": {
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version"
+        ]
+    }
+}
